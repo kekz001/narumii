@@ -18,11 +18,6 @@
 - ![adobe-xd](https://img.shields.io/badge/-Adobe_XD-F50069?style=flat-square&logo=adobe-xd)
 - ![adobe-ps](https://img.shields.io/badge/-Adobe_Photoshop-F50069?style=flat-square&logo=adobe-photoshop)
 
-#### Social
-- ![Discord](https://img.shields.io/badge/-Intellij_Idea-F50069?style=flat-square&logo=intellij-idea)
-- ![Steam](https://img.shields.io/badge/-Adobe_XD-F50069?style=flat-square&logo=adobe-xd)
-- ![MAL](https://img.shields.io/badge/-Adobe_Photoshop-F50069?style=flat-square&logo=adobe-photoshop)
-
 ---
 
 <p align="center">
