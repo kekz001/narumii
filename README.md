@@ -1,5 +1,9 @@
 <p align="center">
-    <img height="100em" src="https://count.getloli.com/get/@:なるみ?theme=rule34"/>
+     <a href="https://www.buymeacoffee.com/narumii"><img height="100em" src="https://count.getloli.com/get/@:なるみ?theme=rule34"/></a>
+</p>
+
+<p align="center">
+    <a href="https://www.buymeacoffee.com/narumii">Buy me a coffee ☕</a>
 </p>
 
 <p align="center">
