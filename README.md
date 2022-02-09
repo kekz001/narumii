@@ -12,15 +12,21 @@
 
 ---
 
-<img alt="ya" src="https://i.imgur.com/goAuVgg.gif" align="right"/>
+<a href="https://gelbooru.com/index.php?page=post&s=list&tags=loli+"><img alt="Lolis are the best" src="https://i.imgur.com/VqGpF3j.gif" align="right"/>
 
 #### Languages
 - ![java](https://img.shields.io/badge/-Java-F50069?style=flat-square&logo=java)
 
-#### Programs
+#### IDE
 - ![ide](https://img.shields.io/badge/-Intellij_Idea-F50069?style=flat-square&logo=intellij-idea)
-- ![adobe-xd](https://img.shields.io/badge/-Adobe_XD-F50069?style=flat-square&logo=adobe-xd)
-- ![adobe-ps](https://img.shields.io/badge/-Adobe_Photoshop-F50069?style=flat-square&logo=adobe-photoshop)
+
+#### What i'm into
+- **Lolis**
+- Programming
+- UI Design
+- RE
+- Minecraft security (ugh)
+- Obfuscation
 
 ---
 
@@ -30,4 +36,10 @@
     <a href="https://myanimelist.net/profile/narumiiii"><img src="https://img.shields.io/badge/-MyAnimeList-F50069?style=flat-square"/></a>
 </p>
 
-> Fuck germans
+---
+
+<p align="center">
+     <a href="https://discord.gg/keyDrkPJDa"><img src="https://discordapp.com/api/guilds/683324651010785337/widget.png?style=banner2"/></a>
+     <a href="https://discord.gg/keyDrkPJDa"><img src="https://discordapp.com/api/guilds/819123150176124959/widget.png?style=banner2"/></a>
+     <a href="https://discord.gg/keyDrkPJDa"><img src="https://discordapp.com/api/guilds/900083350314811432/widget.png?style=banner2"/></a>
+</p>
